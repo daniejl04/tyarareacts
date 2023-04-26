@@ -1,0 +1,30 @@
+.banner{
+    background-size: cover;
+    background-position: center;
+    height: 60vh;
+
+    background-image: url(https://cdn0.psicologia-online.com/es/posts/5/9/6/que_significa_sonar_con_joyas_5695_600.webp);
+
+}
+
+.banner-container{
+    text-align: center;
+    padding-top: 20px;
+   
+ 
+}
+
+.banner h1{
+    font-family: 'Helvetica' ;
+    font-weight: 600;
+    color: white;
+    font-size: 60px;
+    text-shadow: 1px 1px 3px rgb(0,0,0,0.3);
+}
+
+.banner p{
+    font-family: 'Helvetica' ;
+    font-weight: 200;
+    color: white;
+    font-size: 30px;
+}

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Anillo",
+        "price": 20,
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+    },
+
+    {
+        "id": 2,
+        "name": "Pulsera",
+        "price": 27,
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+    },
+
+    {
+        "id": 3,
+        "name": "Collar",
+        "price": 26,
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+    },
+
+    {
+        "id": 4,
+        "name": "Topitos",
+        "price": 30,
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+    }
+
+]
