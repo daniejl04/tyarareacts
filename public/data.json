@@ -3,28 +3,42 @@
         "id": 1,
         "name": "Anillo",
         "price": 20,
-        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+        "mat": "Acero",
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/20230412_164820-600x600.jpg"
     },
 
     {
         "id": 2,
         "name": "Pulsera",
         "price": 27,
-        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+        "mat": "Cover gold",
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/20230412_165104-600x600.jpg"
+    
     },
 
     {
         "id": 3,
         "name": "Collar",
         "price": 26,
-        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+        "mat": "Gold",
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-17-26-42-962-600x600.jpg"
+        
     },
 
     {
         "id": 4,
         "name": "Topitos",
         "price": 30,
-        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftodoenjoyas.com%2F&psig=AOvVaw0ysPkcpGSvHf3-PCrxB92d&ust=1682201241449000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJC2so3-u_4CFQAAAAAdAAAAABAK"
+        "mat": "Acero",
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-15-37-02-821-600x600.jpg"
+    },
+
+    {
+        "id": 4,
+        "name": "Topitos",
+        "price": 89,
+        "mat": "Acero",
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/CM_Photogrid_1681329470426-1024x1024.jpg"
     }
 
 ]

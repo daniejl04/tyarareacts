@@ -4,39 +4,25 @@ import { dataContext } from "../Context/DataContext";
 
 
 const Products = () => {
-    const {} = useContext(dataContext);
-  return dataContext.map((product)=> {
+    const { data } = useContext(dataContext);
+  return data.map((product)=> {
     return(
 
-        <div class="bg-white">
-        <div class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24 lg:max-w-7xl lg:px-8">
-          <h2 class="text-2xl font-bold tracking-tight text-gray-900">Customers also purchased</h2>
-      
-          <div class="mt-6 grid grid-cols-1 gap-x-6 gap-y-10 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-            <div class="group relative">
-              <div class="min-h-80 aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-md bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-80">
-                <img src={product.img} alt="img-product-cart" class="h-full w-full object-cover object-center lg:h-full lg:w-full"/>
-              </div>
-              <div class="mt-4 flex justify-between">
-                <div>
-                  <h3 class="text-sm text-gray-700">
-                    <a href="#">
-                      <span aria-hidden="true" class="absolute inset-0"></span>
-                      Basic Tee
-                    </a>
-                  </h3>
-                  <p class="mt-1 text-sm text-gray-500">Black</p>
-                </div>
-                <p class="text-sm font-medium text-gray-900">$35</p>
-              </div>
-            </div>
-      
+
+      <div>
+          <div className=" min-h-full aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-64">
+            <img src={product.img}/>
           </div>
-        </div>
-      </div>
+          <h3 className="text-sm text-gray-700">{product.name}</h3>
+          <h4 className="text-sm font-medium text-gray-900">{product.price}</h4> 
+          <div className="flex justify-end">
+            <button type="submit" className=" rounded-md bg-blue-800 px-4 py-1.5 text-sm font-lihgt leading-6 text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Agregar</button>
+          </div>       
+      </div>    
+      
 
     )
   })
 };
 
-export default products;
+export default Products;

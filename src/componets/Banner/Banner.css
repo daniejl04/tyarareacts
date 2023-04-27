@@ -2,17 +2,10 @@
     background-size: cover;
     background-position: center;
     height: 60vh;
-
-    background-image: url(https://cdn0.psicologia-online.com/es/posts/5/9/6/que_significa_sonar_con_joyas_5695_600.webp);
-
+    background-image: url(../../Img/banner\ 1\ .jpg);
 }
 
-.banner-container{
-    text-align: center;
-    padding-top: 20px;
-   
- 
-}
+
 
 .banner h1{
     font-family: 'Helvetica' ;

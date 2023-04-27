@@ -1,14 +1,20 @@
 import Navbar from "../Navbar/Navbar";
 import Banner from "../Banner/Banner";
-
+import Products from "../Products/Products";
 const Home = () => {
     return (
     <div>
-    <Navbar/>
-    <Banner/>
-    <h1 class="text-blue-600">Home</h1>
+        <Navbar/>
+        <Banner/>  
+        
+         <div className="grid grid-cols-4 gap-6 items-center justify-center m-24">
+            <Products/>
+        </div>
+          
+       
+        
     </div>
-    
+
     );
 };
 
