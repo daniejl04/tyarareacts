@@ -20,7 +20,7 @@ const Products = () => {
             <img src={product.img}/>
           </div>
           <h3 className="text-sm text-gray-700">{product.name}</h3>
-          <h4 className="text-sm font-medium text-gray-900">{product.price}</h4> 
+          <h4 className="text-sm font-medium text-gray-900">$ {product.price}</h4> 
           <div className="flex justify-end">
             <button onClick={() => buyProducts (product)} type="submit" className=" rounded-md bg-blue-700 px-4 py-1.5 text-sm font-lihgt leading-6 text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Agregar</button>
           </div>       
