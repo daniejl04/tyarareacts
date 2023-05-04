@@ -2,22 +2,17 @@
     background-size: cover;
     background-position: center;
     height: 60vh;
-    background-image: url(../../Img/banner\ 1\ .jpg);
+    background-image: url(../../assets/banner\ 1\ .jpg);
 }
 
 
 
 .banner h1{
     font-family: 'Helvetica' ;
-    font-weight: 600;
-    color: white;
-    font-size: 60px;
     text-shadow: 1px 1px 3px rgb(0,0,0,0.3);
 }
 
 .banner p{
     font-family: 'Helvetica' ;
-    font-weight: 200;
-    color: white;
-    font-size: 30px;
+  
 }

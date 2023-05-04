@@ -11,15 +11,19 @@ const CartContent = () => {
 
   return cart.length > 0 ? (
 
-    <div className=" flex flex-col justify-end">
+    <div className=" grid justify-items-center mt-7  ">
       <div>
-        <CartElements/>
-        <CartTotal/>
+        <div>
+          <CartElements/>
+        </div>
+        <div className=" my-5 ">
+          <CartTotal/>
+        </div>
       </div>
     </div>
 
       ): (
-        <h2 className="cart-message"> Esta vacio</h2>
+        <h2 className="cart-message grid justify-items-center"> Carrito vacio</h2>
       )
 };
 

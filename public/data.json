@@ -4,7 +4,9 @@
         "name": "Anillo",
         "price": 20,
         "mat": "Acero",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/20230412_164820-600x600.jpg"
+        "img": "https://tyara.co/img/photo1681328265%20(1).jpeg",
+        "quantity": 1,
+        "quanty": 1
     },
 
     {
@@ -12,7 +14,9 @@
         "name": "Pulsera",
         "price": 27,
         "mat": "Cover gold",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/20230412_165104-600x600.jpg"
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/20230412_165104-600x600.jpg",
+        "quantity": 1,
+        "quanty": 1
     
     },
 
@@ -21,16 +25,19 @@
         "name": "Collar",
         "price": 20,
         "mat": "Gold",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-17-26-42-962-600x600.jpg"
-        
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-17-26-42-962-600x600.jpg",
+        "quantity": 1,
+        "quanty": 1
     },
 
     {
         "id": 4,
-        "name": "Topitos",
+        "name": "Topitos de arcoires laminado",
         "price": 30,
         "mat": "Acero",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-15-37-02-821-600x600.jpg"
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-15-37-02-821-600x600.jpg",
+        "quantity": 1,
+        "quanty": 1
     },
 
     {
@@ -38,7 +45,9 @@
         "name": "Topitos",
         "price": 89,
         "mat": "Acero",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/CM_Photogrid_1681329470426-1024x1024.jpg"
+        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/CM_Photogrid_1681329470426-1024x1024.jpg",
+        "quantity": 1,
+        "quanty": 1
     }
 
 ]
