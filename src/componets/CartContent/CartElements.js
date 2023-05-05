@@ -5,6 +5,8 @@ import CartItemCounter from "./CartItemCounter";
 const CartElements = () => {
     const { cart, setCart} = useContext(dataContext);
 
+//funcion para eliminar productos del cart (start)
+
     const deleteProduct = (id) => {
         const foundId = cart.find ((element) => element.id === id);
 
@@ -14,7 +16,7 @@ const CartElements = () => {
 
         setCart(newCart);
     };
-
+  //end
     return cart.map ((product) => {
         return (
             <div className="cartContent px-6 rounded-md shadow-md">

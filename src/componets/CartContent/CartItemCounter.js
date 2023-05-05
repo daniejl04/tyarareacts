@@ -4,7 +4,7 @@ import { dataContext } from "../Context/DataContext";
 
 const CartItemCounter = ({product}) => { 
     const {cart, setCart, buyProducts } = useContext(dataContext);
-
+//funcion del botos de resta del carrito
     const decrese = () => {
         const productrepeat = cart.find((item) => item.id === product.id);
 
@@ -12,7 +12,7 @@ const CartItemCounter = ({product}) => {
         productrepeat.quanty !== 1 &&
         setCart(cart.map((item) => (item.id === product.id ? {...product, quanty : productrepeat.quanty - 1 } : item)))
     };
-
+//end
     return (
       <div className="flex flex-row justify-item-center" >
         <button className="px-3.5 rounded-l-lg bg-azul-900 hover:bg-azul-700 text-white " onClick={decrese}>-</button>

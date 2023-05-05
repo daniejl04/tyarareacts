@@ -9,7 +9,7 @@ const DataProvider = ({children}) =>{
     useEffect(() => {
         axios("data.json").then((res) => setData(res.data));
     }, []);
-
+// suma de productos del carrito 
     const buyProducts = (product) => {
         const productrepeat = cart.find ((item) => item.id === product.id);
         
