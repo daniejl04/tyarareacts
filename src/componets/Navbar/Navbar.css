@@ -23,11 +23,8 @@
 }
 
 .setcar{
-    font-size: 25px;
     margin-right: 30px;
     margin-top: 3vh;
     justify-self: end;
-    cursor: pointer;
-    text-decoration: none;
 }
 
