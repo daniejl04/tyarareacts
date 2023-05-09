@@ -4,7 +4,7 @@
         "name": "Anillo",
         "price": 20,
         "mat": "Acero",
-        "img": "https://tyara.co/img/photo1681328265%20(1).jpeg",
+        "img": "https://ruta54mayoristas.com/app/img/FT073.jpg",
         "quantity": 1,
         "quanty": 1
     },
@@ -14,7 +14,7 @@
         "name": "Pulsera",
         "price": 27,
         "mat": "Cover gold",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/20230412_165104-600x600.jpg",
+        "img": "https://ruta54mayoristas.com/app/img/MC533.jpg",
         "quantity": 1,
         "quanty": 1
     
@@ -25,7 +25,7 @@
         "name": "Collar",
         "price": 20,
         "mat": "Gold",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-17-26-42-962-600x600.jpg",
+        "img": "https://ruta54mayoristas.com/app/img/MC535.jpg",
         "quantity": 1,
         "quanty": 1
     },
@@ -35,19 +35,71 @@
         "name": "Topitos de arcoires laminado",
         "price": 30,
         "mat": "Acero",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/2023-04-12-15-37-02-821-600x600.jpg",
+        "img": "https://ruta54mayoristas.com/app/img/LR146.jpg",
         "quantity": 1,
         "quanty": 1
     },
 
     {
-        "id": 4,
+        "id": 5,
+        "name": "Top",
+        "price": 89,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/OR833.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 6,
+        "name": "uno",
+        "price": 20,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/RR843.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 7,
+        "name": "Pulsera",
+        "price": 27,
+        "mat": "Cover gold",
+        "img": "https://ruta54mayoristas.com/app/img/FT078.jpg",
+        "quantity": 1,
+        "quanty": 1
+    
+    },
+
+    {
+        "id": 8,
+        "name": "Collar",
+        "price": 20,
+        "mat": "Gold",
+        "img": "https://ruta54mayoristas.com/app/img/BR049.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 9,
+        "name": "Topitos de arcoires laminado",
+        "price": 30,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/BR046.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 10,
         "name": "Topitos",
         "price": 89,
         "mat": "Acero",
-        "img": "https://sublimetentacion.com/wp-content/uploads/2023/04/CM_Photogrid_1681329470426-1024x1024.jpg",
+        "img": "https://ruta54mayoristas.com/app/img/MC562.jpg",
         "quantity": 1,
         "quanty": 1
     }
+
 
 ]
