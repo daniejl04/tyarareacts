@@ -1,20 +1,13 @@
 [
-    {
-        "id": 1,
-        "name": "Anillo",
-        "price": 20,
-        "mat": "Acero",
-        "img": "https://ruta54mayoristas.com/app/img/FT073.jpg",
-        "quantity": 1,
-        "quanty": 1
-    },
+
+
 
     {
         "id": 2,
         "name": "Pulsera",
         "price": 27,
         "mat": "Cover gold",
-        "img": "https://ruta54mayoristas.com/app/img/MC533.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     
@@ -25,17 +18,17 @@
         "name": "Collar",
         "price": 20,
         "mat": "Gold",
-        "img": "https://ruta54mayoristas.com/app/img/MC535.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     },
 
     {
         "id": 4,
-        "name": "Topitos de arcoires laminado",
+        "name": "Topitos de arcoiris laminado",
         "price": 30,
         "mat": "Acero",
-        "img": "https://ruta54mayoristas.com/app/img/LR146.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     },
@@ -45,7 +38,7 @@
         "name": "Top",
         "price": 89,
         "mat": "Acero",
-        "img": "https://ruta54mayoristas.com/app/img/OR833.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     },
@@ -55,7 +48,7 @@
         "name": "uno",
         "price": 20,
         "mat": "Acero",
-        "img": "https://ruta54mayoristas.com/app/img/RR843.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     },
@@ -65,7 +58,7 @@
         "name": "Pulsera",
         "price": 27,
         "mat": "Cover gold",
-        "img": "https://ruta54mayoristas.com/app/img/FT078.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     
@@ -76,17 +69,17 @@
         "name": "Collar",
         "price": 20,
         "mat": "Gold",
-        "img": "https://ruta54mayoristas.com/app/img/BR049.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     },
 
     {
         "id": 9,
-        "name": "Topitos de arcoires laminado",
+        "name": "",
         "price": 30,
         "mat": "Acero",
-        "img": "https://ruta54mayoristas.com/app/img/BR046.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     },
@@ -96,7 +89,7 @@
         "name": "Topitos",
         "price": 89,
         "mat": "Acero",
-        "img": "https://ruta54mayoristas.com/app/img/MC562.jpg",
+        "img": "",
         "quantity": 1,
         "quanty": 1
     }

@@ -8,8 +8,6 @@ const Products = () => {
     
   return data.map((product)=> {
     return(
-
-
       <div className="card" key={product.id}>
           <div className=" min-h-full aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-64">
             <img src={product.img}/>
@@ -20,8 +18,6 @@ const Products = () => {
             <button onClick={() => buyProducts (product)} type="submit" className=" rounded-md bg-blue-700 px-4 py-1.5 text-sm font-lihgt leading-6 text-white shadow-sm hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900">Agregar</button>
           </div>       
       </div>    
-      
-
     )
   })
 };
