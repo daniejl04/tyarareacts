@@ -5,7 +5,7 @@ const Banner = () => {
     <div className="banner text-center content-center mt-24">
         <div className="banner-container content-center justify-item-center pt-32">
             <h1 className=" text-white text-7xl font-medium font-sans">ES MOMENTO DE CONSENTIRTE</h1>
-            <p className="text-white text-5xl font-light font-sans">sliders videos y mas</p>
+            <p className="text-white text-5xl font-light font-sans">No lo pienses más</p>
         </div>
     </div>
 

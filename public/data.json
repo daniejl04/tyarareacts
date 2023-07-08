@@ -1,13 +1,20 @@
 [
-
-
+    {
+        "id": 1,
+        "name": "Topitos",
+        "price": 3000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/TP310.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
 
     {
         "id": 2,
         "name": "Pulsera",
-        "price": 27,
+        "price": 2000,
         "mat": "Cover gold",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/LL058.jpg",
         "quantity": 1,
         "quanty": 1
     
@@ -16,19 +23,19 @@
     {
         "id": 3,
         "name": "Collar",
-        "price": 20,
+        "price": 2000,
         "mat": "Gold",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/OR884.jpg",
         "quantity": 1,
         "quanty": 1
     },
 
     {
         "id": 4,
-        "name": "Topitos de arcoiris laminado",
-        "price": 30,
+        "name": "Topitos laminados",
+        "price": 2000,
         "mat": "Acero",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/TP301.jpg",
         "quantity": 1,
         "quanty": 1
     },
@@ -36,19 +43,19 @@
     {
         "id": 5,
         "name": "Top",
-        "price": 89,
+        "price": 6000,
         "mat": "Acero",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/LL064.jpg",
         "quantity": 1,
         "quanty": 1
     },
 
     {
         "id": 6,
-        "name": "uno",
-        "price": 20,
+        "name": "Topitos",
+        "price": 6000,
         "mat": "Acero",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/TP314.jpg",
         "quantity": 1,
         "quanty": 1
     },
@@ -56,9 +63,9 @@
     {
         "id": 7,
         "name": "Pulsera",
-        "price": 27,
+        "price": 9700,
         "mat": "Cover gold",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/LL056.jpg",
         "quantity": 1,
         "quanty": 1
     
@@ -67,9 +74,9 @@
     {
         "id": 8,
         "name": "Collar",
-        "price": 20,
+        "price": 8300,
         "mat": "Gold",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/OR881.jpg",
         "quantity": 1,
         "quanty": 1
     },
@@ -77,19 +84,121 @@
     {
         "id": 9,
         "name": "",
-        "price": 30,
+        "price": 7000,
         "mat": "Acero",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/MC570.jpg",
         "quantity": 1,
         "quanty": 1
     },
 
     {
         "id": 10,
-        "name": "Topitos",
-        "price": 89,
+        "name": "Anillo",
+        "price": 5000,
         "mat": "Acero",
-        "img": "",
+        "img": "https://ruta54mayoristas.com/app/img/LR154.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 11,
+        "name": "Topitos",
+        "price": 3000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/TP310.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 12,
+        "name": "Pulsera",
+        "price": 2000,
+        "mat": "Cover gold",
+        "img": "https://ruta54mayoristas.com/app/img/LL058.jpg",
+        "quantity": 1,
+        "quanty": 1
+    
+    },
+
+    {
+        "id": 13,
+        "name": "Collar",
+        "price": 2000,
+        "mat": "Gold",
+        "img": "https://ruta54mayoristas.com/app/img/SP154.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 14,
+        "name": "Topitos laminados",
+        "price": 2000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/TP309.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 15,
+        "name": "Top",
+        "price": 6000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/PC584.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 16,
+        "name": "Topitos",
+        "price": 6000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/PC585.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 17,
+        "name": "Pulsera",
+        "price": 9700,
+        "mat": "Cover gold",
+        "img": "https://ruta54mayoristas.com/app/img/SP151.jpg",
+        "quantity": 1,
+        "quanty": 1
+    
+    },
+
+    {
+        "id": 18,
+        "name": "Collar",
+        "price": 8300,
+        "mat": "Gold",
+        "img": "https://ruta54mayoristas.com/app/img/DR060.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 19,
+        "name": "Earcuff",
+        "price": 7000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/OR878.jpg",
+        "quantity": 1,
+        "quanty": 1
+    },
+
+    {
+        "id": 2220,
+        "name": "Anillo",
+        "price": 5000,
+        "mat": "Acero",
+        "img": "https://ruta54mayoristas.com/app/img/LR158.jpg",
         "quantity": 1,
         "quanty": 1
     }
