@@ -9,7 +9,7 @@ const Products = () => {
   return data.map((product)=> {
     return(
       <div className="card" key={product.id}>
-          <div className=" min-h-full aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 lg:aspect-none group-hover:opacity-75 lg:h-64">
+          <div className=" min-h-full aspect-h-1 aspect-w-1 w-full overflow-hidden rounded-lg bg-gray-200 lg:aspect-none group-hover:opacity-75  lg:h-56">
             <img src={product.img}/>
           </div>
           <h3 className="text-sm text-gray-700">{product.name}</h3>

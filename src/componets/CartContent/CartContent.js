@@ -18,7 +18,7 @@ const CartContent = () => {
   {cart.length > 0 ? (
     <div className=" grid justify-center  mt-40  ">
       <div>
-        <div className="">
+        <div >
           <CartElements/>
         </div>
         <div className=" my-5 ">

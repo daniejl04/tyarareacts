@@ -21,7 +21,7 @@ const CartElements = () => {
         return (
             <div className="cartContent px-6 rounded-md shadow-md">
                 <li key={product.id} className="flex py-6">
-                    <div className="h-24 w-24 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
+                    <div className="h-16 w-16 flex-shrink-0 overflow-hidden rounded-md border border-gray-200">
                         <img src={product.img} className="h-full w-full object-cover object-center"/>
                     </div>
                     <div className="ml-4 flex flex-1 flex-col">
